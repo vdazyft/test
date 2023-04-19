@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 echo "hello"
+=======
+echo "new file"
+>>>>>>> d2967b998a281d935a2b016992cf6082aa6bc96a
